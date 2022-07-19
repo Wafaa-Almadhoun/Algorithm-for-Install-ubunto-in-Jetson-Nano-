@@ -4,7 +4,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
 * [Components required](#Components-required)
-* [setup algrithem](#setup algrithem)
+* [setup algrithem](#setup-algrithem)
 
 
 ## Introduction
