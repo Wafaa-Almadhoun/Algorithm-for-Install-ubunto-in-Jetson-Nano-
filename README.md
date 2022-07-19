@@ -44,4 +44,10 @@
     
 
 ## setup algrithem
+First step :
+### Write Image to the microSD Card
+
+      To prepare your microSD card, you’ll need a computer with Internet connection and the ability to read and write SD cards,
+      either via a built-in SD card slot or adapter
+
 
