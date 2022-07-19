@@ -80,3 +80,45 @@ First step :
      
   ![Jetson_Nano-Getting_Started-Windows-Etcher_Cancel](https://user-images.githubusercontent.com/64277741/179656202-88348754-6d7e-4475-87d7-8b5dba8fb98c.png)
 
+   4- Click “Select drive” and choose the correct device.
+   
+   ![Jetson_Nano-Getting_Started-Windows-Etcher_Select_Drive](https://user-images.githubusercontent.com/64277741/179657185-fd60e08d-9f44-437c-883c-b6de5a748ae3.png)
+   
+   5- Click “Flash!” It will take Etcher about 10 minutes to write and validate the image if your microSD card is connected via USB3.
+   
+   6- After Etcher finishes, Windows may let you know it doesn’t know how to read the SD Card. Just click Cancel and remove the microSD card.
+   
+   ![Jetson_Nano-Getting_Started-Windows-SD_Card_Prompt](https://user-images.githubusercontent.com/64277741/179657505-e526e28b-21d4-48f8-9742-09c8be5299b6.png)
+
+   7- After your microSD card is ready, proceed to Setup 
+   
+   
+  ### Setup 
+  
+  
+ #### Initial Setup with Display Attached
+ 
+  1- Insert the microSD card (with system image already written to it) into the slot on the underside of the Jetson Nano module.
+   
+   ![Jetson_Nano-Getting_Started-Setup-Insert_microSD-B01](https://user-images.githubusercontent.com/64277741/179658397-9f784596-b374-4564-802f-b5cc407dc8e2.png)
+  
+  2- Power on your computer display and connect it.
+  
+  3-Connect the USB keyboard and mouse.
+  
+  4-Connect your Micro-USB power supply ,The kit will power on and boot automatically.
+  
+  ##### First Boot
+  
+  A green LED next to the Micro-USB connector will light as soon as the kit powers on.
+  When you boot the first time, the kit will take you through some initial setup, including:
+
+  1- Review and accept NVIDIA Jetson software EULA
+  2- Select system language, keyboard layout, and time zone
+  3- Create username, password, and computer name
+  4- Select APP partition size—it is recommended to use the max size suggested
+  5- After Logging In ,You will see this screen
+   
+ #### install ROS2
+ 
+ 
