@@ -134,4 +134,29 @@ First step :
 
            locale  # verify settings
  
+ ##### Setup Sources
  
+  You will need to add the ROS 2 apt repositories to your system. First, make sure that the Ubuntu Universe repository is
+  enabled by checking the output of this command.    
+  
+          apt-cache policy | grep universe
+         
+  This should output a line like the one below:
+  
+           500 http://us.archive.ubuntu.com/ubuntu focal/universe amd64 Packages
+           release v=20.04,o=Ubuntu,a=focal,n=focal,l=Ubuntu,c=universe,b=amd64
+  
+  If you don’t see an output line like the one above, then enable the Universe repository with these instructions.
+          
+           sudo apt install software-properties-common
+           sudo add-apt-repository universe
+           
+  Now add the ROS 2 apt repository to your system.
+  
+            sudo apt update && sudo apt install curl gnupg2 lsb-release
+            sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -o /usr/share/keyrings/ros-archive-keyring.gpg
+
+##### Install ROS 2 packages
+
+
+            
