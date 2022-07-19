@@ -39,11 +39,11 @@ Project is created with:
 
     2- microSD card (32GB UHS-1 minimum recommended)
 
-    3- USB keyboard and mouse
+    3- USB keyboard and mouse 
 
     4- Computer display (HDMI or DP)
 
-    5- Micro-USB power supply
+    5- Micro-USB power supply deliver 5V⎓2A EX: [see here](https://www.adafruit.com/product/1995)
     
     6-  computer with Internet connection  
     
