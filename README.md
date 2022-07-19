@@ -14,7 +14,8 @@
 
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://user-images.githubusercontent.com/64277741/179639970-f0d995bf-f667-403c-b02d-a2940fda9243.png)
   Figure (1): Jetson nano kit 
-
+  
+ ### Ports & Interfaces
     1. microSD card slot for main storage
     2. 40-pin expansion header
     3. Micro-USB port for 5V power input, or for Device Mode
