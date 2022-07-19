@@ -1,0 +1,1 @@
+# Algorithm-for-Install-ubunto-in-Jetson-Nano-
