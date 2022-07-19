@@ -43,7 +43,7 @@ Project is created with:
 
     4- Computer display (HDMI or DP)
 
-    5- Micro-USB power supply deliver 5V⎓2A EX: [see here](https://www.adafruit.com/product/1995)
+    5- Micro-USB power supply deliver 5V⎓2A EX:  Adafruit’s 5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable (GEO151UB-6025)
     
     6-  computer with Internet connection  
     
