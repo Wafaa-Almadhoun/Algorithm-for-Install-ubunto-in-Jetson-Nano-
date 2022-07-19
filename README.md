@@ -119,6 +119,19 @@ First step :
   4- Select APP partition size—it is recommended to use the max size suggested
   5- After Logging In ,You will see this screen
    
- #### install ROS2
+ #### install ROS2 
+ 
+ 1- Launch terminal using CTRL+ALT+T
+ 
+ ##### Set locale 
+ 
+           locale  # check for UTF-8
+
+           sudo apt update && sudo apt install locales
+           sudo locale-gen en_US en_US.UTF-8
+           sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
+           export LANG=en_US.UTF-8
+
+           locale  # verify settings
  
  
