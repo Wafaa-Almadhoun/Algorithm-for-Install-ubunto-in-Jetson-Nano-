@@ -60,7 +60,18 @@ First step :
 
   1- Download, install, and launch  [SD Memory Card Formatter for Windows](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/) .
  
+ ![Jetson_Nano-Getting_Started-Windows-SD_Card_Formatter](https://user-images.githubusercontent.com/64277741/179655546-a65398a0-6129-425b-9868-a0616bcc9f05.png)
+
+  2- Select card drive .
+  
+  3- Select “Quick format”
+  
+  4- Leave “Volume label” blank
+  
+  5- Click “Format” to start formatting, and “Yes” on the warning dialog
+  
+ Use Etcher to write the Jetson Nano Developer Kit SD Card Image to your microSD card
  
- 
-    
+   1- Download, install, and launch [Etcher](https://www.balena.io/etcher)
+   
     
