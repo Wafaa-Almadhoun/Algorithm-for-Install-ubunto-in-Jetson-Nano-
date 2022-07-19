@@ -50,10 +50,16 @@ First step :
       To prepare your microSD card, you’ll need a computer with Internet connection and the ability to read and write SD cards,
       either via a built-in SD card slot or adapter
 
- 1. Download the [Jetson Nano Developer Kit SD Card Image](https://developer.nvidia.com/jetson-nano-sd-card-image), 
+ step 1: Download the [Jetson Nano Developer Kit SD Card Image](https://developer.nvidia.com/jetson-nano-sd-card-image), 
   and note where it was saved on the computer.
  
- 2. INSTRUCTIONS FOR WINDOWS :
+ step 2: INSTRUCTIONS FOR WINDOWS :
+ 
+  Format your microSD card using SD Memory Card Formatter from the SD Association.
+  https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/
+
+    1- Download, install, and launch  [SD Memory Card Formatter for Windows](https://developer.nvidia.com/jetson-nano-sd-card-image) .
+ 
  
  
     
