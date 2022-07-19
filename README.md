@@ -33,33 +33,17 @@ Project is created with:
 * Proteus [To Downloud](https://www.labcenter.com/simulation/)
 	
 ## Components required
-### 1. Unipolar Stepper with ULN2003 
-    1. Arduino UNO
-    2. 1 – 28BYJ-48 Unipolar Stepper
-    3. jumper wirs
-    4. driver board ULN2003
-    5. bettrey  5 and 12 volt 
-    6. breadboard
-    
-### 2. Bipolar Stepper with L293D Motor Driver IC
-    1. Arduino UNO
-    2. 1  NEMA 17 bipolar stepper
-    3. jumper wirs
-    4. L293D Motor Driver IC
-    5. bettrey  5 and 12 volt 
-    6. breadboard
-    
-### 3. BIG Stepper Motors NEMA 23 Bipolar with DM860A Microstep Driver .
-    1. Arduino UNO
-    2. 1  NEMA 23 bipolar stepper
-    3. jumper wirs
-    4. DM860A Microstep Driver
-    5. bettrey 24 volt 
-    6. breadboard
-    7. push button 
-    8. 10 k ohm
-    9. potentiometer
-    
+
+    1- Nvidia jetson nano
+
+    2- microSD card (32GB UHS-1 minimum recommended)
+
+    3- USB keyboard and mouse
+
+    4- Computer display (HDMI or DP)
+
+    5- Micro-USB power supply
+
 ## Connections
 
 ### 1. Unipolar Stepper with ULN2003
