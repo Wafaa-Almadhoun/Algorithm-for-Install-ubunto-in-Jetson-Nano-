@@ -1,8 +1,7 @@
-# Algorithm-for-Install-ubunto-in-Jetson-Nano-
+# Algorithm-for-Install-ROS2-in-Jetson-Nano-
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [Technologies](#technologies)
 * [Components required](#Components-required)
 * [setup algrithem](#setup-algrithem)
 
