@@ -1,4 +1,4 @@
-# Algorithm-for-Install-ROS2-in-Jetson-Nano-
+# Algorithm-for-Install-ROS2-in-Jetson-Nano-with-windows
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -53,7 +53,8 @@ First step :
  1. Download the [Jetson Nano Developer Kit SD Card Image](https://developer.nvidia.com/jetson-nano-sd-card-image), 
   and note where it was saved on the computer.
  
- 2. Write the image to your microSD card by following the instructions below according to your computer’s 
-    operating system: Windows, macOS, or Linux.
+ 2. INSTRUCTIONS FOR WINDOWS :
+ 
+ 
     
     
