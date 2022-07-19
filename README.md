@@ -44,6 +44,11 @@ Project is created with:
     4- Computer display (HDMI or DP)
 
     5- Micro-USB power supply
+    
+    6-  computer with Internet connection  
+    
+    7- ability to flash your microSD card 
+    
 
 ## Connections
 
