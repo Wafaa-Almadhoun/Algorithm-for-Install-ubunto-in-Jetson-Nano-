@@ -8,10 +8,12 @@
 * [Block diagram & simulation ](#Block-diagram-&-simulation)
 
 ## Introduction
-     The jetson nano is one of series of embedded computing boards from Nvidia , Jetson is a low-power system and is designed for accelerating machine learning applications , building practical AI applications, cool AI robots, and more.
+     The jetson nano is one of series of embedded computing boards from Nvidia , 
+     Jetson is a low-power system and is designed for accelerating machine learning applications ,
+     building practical AI applications, cool AI robots, and more.
 
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://user-images.githubusercontent.com/64277741/179639970-f0d995bf-f667-403c-b02d-a2940fda9243.png)
-  Figure (1): Jetson nano dev kit 
+  Figure (1): Jetson nano kit 
 
 1. microSD card slot for main storage
 2. 40-pin expansion header
