@@ -4,7 +4,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
 * [Components required](#Components-required)
-* [Connections](#Connections)
+* [setup algrithem](#setup algrithem)
 * [Block diagram & simulation ](#Block-diagram-&-simulation)
 
 ## Introduction
