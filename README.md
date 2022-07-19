@@ -50,4 +50,10 @@ First step :
       To prepare your microSD card, you’ll need a computer with Internet connection and the ability to read and write SD cards,
       either via a built-in SD card slot or adapter
 
- 1. Download the [Jetson Nano Developer Kit SD Card Image](https://developer.nvidia.com/jetson-nano-sd-card-image)                     
+ 1. Download the [Jetson Nano Developer Kit SD Card Image](https://developer.nvidia.com/jetson-nano-sd-card-image), 
+  and note where it was saved on the computer.
+ 
+ 2. Write the image to your microSD card by following the instructions below according to your computer’s 
+    operating system: Windows, macOS, or Linux.
+    
+    
