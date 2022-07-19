@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Components required](#Components-required)
 * [setup algrithem](#setup algrithem)
-* [Block diagram & simulation ](#Block-diagram-&-simulation)
+
 
 ## Introduction
      The jetson nano is one of series of embedded computing boards from Nvidia , 
@@ -50,7 +50,7 @@ Project is created with:
     7- ability to flash your microSD card 
     
 
-## Connections
+## setup algrithem
 
 ### 1. Unipolar Stepper with ULN2003
 
