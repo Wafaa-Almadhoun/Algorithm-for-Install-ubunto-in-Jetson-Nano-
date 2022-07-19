@@ -158,5 +158,27 @@ First step :
 
 ##### Install ROS 2 packages
 
-
+  Update your apt repository caches after setting up the repositories
+  
+            sudo apt update
             
+  ROS 2 packages are built on frequently updated Ubuntu systems. It is always recommended that 
+  you ensure your system is up to date before installing new packages.          
+            
+            sudo apt upgrade
+            
+  Desktop Install (Recommended): ROS, RViz, demos, tutorials.
+  
+            sudo apt install ros-foxy-desktop
+            
+  ROS-Base Install (Bare Bones): Communication libraries, message packages, command line tools. No GUI tools.
+  
+            sudo apt install ros-foxy-ros-base
+ ##### Environment setup
+ 
+   Set up your environment by sourcing the following file.
+            
+            source /opt/ros/foxy/setup.bash
+            
+            
+  
