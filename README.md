@@ -56,9 +56,9 @@ First step :
  step 2: INSTRUCTIONS FOR WINDOWS :
  
   Format your microSD card using SD Memory Card Formatter from the SD Association.
-  https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/
+  
 
-    1- Download, install, and launch  [SD Memory Card Formatter for Windows](https://developer.nvidia.com/jetson-nano-sd-card-image) .
+  1- Download, install, and launch  [SD Memory Card Formatter for Windows](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/) .
  
  
  
