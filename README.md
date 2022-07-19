@@ -78,5 +78,5 @@ First step :
    3- Insert your microSD card if not already inserted.
      Click Cancel if Windows prompts you with a dialog like this:
      
-     ![Jetson_Nano-Getting_Started-Windows-Etcher_Cancel](https://user-images.githubusercontent.com/64277741/179656202-88348754-6d7e-4475-87d7-8b5dba8fb98c.png)
+  ![Jetson_Nano-Getting_Started-Windows-Etcher_Cancel](https://user-images.githubusercontent.com/64277741/179656202-88348754-6d7e-4475-87d7-8b5dba8fb98c.png)
 
