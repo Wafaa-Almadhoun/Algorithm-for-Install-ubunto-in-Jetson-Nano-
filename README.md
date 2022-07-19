@@ -15,15 +15,15 @@
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://user-images.githubusercontent.com/64277741/179639970-f0d995bf-f667-403c-b02d-a2940fda9243.png)
   Figure (1): Jetson nano kit 
 
-1. microSD card slot for main storage
-2. 40-pin expansion header
-3. Micro-USB port for 5V power input, or for Device Mode
-4. Gigabit Ethernet port
-5. USB 3.0 ports (x4)
-6. HDMI output port
-7. DisplayPort connector
-8. DC Barrel jack for 5V power input
-9. MIPI CSI-2 camera connectors
+    1. microSD card slot for main storage
+    2. 40-pin expansion header
+    3. Micro-USB port for 5V power input, or for Device Mode
+    4. Gigabit Ethernet port
+    5. USB 3.0 ports (x4)
+    6. HDMI output port
+    7. DisplayPort connector
+    8. DC Barrel jack for 5V power input
+    9. MIPI CSI-2 camera connectors
   
 
 
